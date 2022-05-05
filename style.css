@@ -1,0 +1,65 @@
+/*
+selector {
+    ruleName: value;
+    ruleName: value;
+    ruleName: value;
+}
+ */
+
+body{
+    background-color: lightblue;
+    /* try these rules:
+    font-family: ;
+    font-weight: ;
+    fonti-size:; 
+    */
+}
+
+/* try to style all the h1s to be
+font-size:70px;
+color: blue
+border: 1px solid green */
+
+h1{
+    font-size: 70px;
+    border: 10px solid green;
+}
+
+
+/* try sto style the whole page using these rules */
+
+p{
+    color: darkorchid;
+    font-family: cursive;
+    font-size: 40px;
+    border: 2px solid purple
+}
+h2{
+    color: lime;
+    font-size: 23px;
+    font-family: sans-serif;
+}
+h3{
+    color: maroon;
+    font-size: 15px;
+}
+h6{
+    color: salmon;
+    font-family: monospace;
+    font-size: 45px;
+}
+u{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid rebeccapurple
+}
+i{
+    color: teal;
+    font-family: inherit;
+}
+s{
+    color: lemonchiffon;
+}
+ul{
+    color: deeppink;
+}
